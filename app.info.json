@@ -1,11 +1,11 @@
 {
   "app_name": "patch",
-  "src_hash": "19a3b27b00c2065f8e78e24424925f2be937a28e",
+  "src_hash": "d6bb711c4a99d541c79430aec2112a782bb9714b",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "435",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/patchman-ui/builds/666260908"
+    "build_number": "441",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/patchman-ui/builds/666736662"
   }
 }
