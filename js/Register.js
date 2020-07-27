@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{779:function(e,n,a){"use strict";a.r(n);var t=a(783),l=a(0),c=a.n(l),r=a(785),u=a(421);n.default=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement(r.a,{title:"Patch"}),c.a.createElement(t.Main,null,c.a.createElement("div",null,c.a.createElement(u.a,null))))}}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{779:function(e,n,a){"use strict";a.r(n);var t=a(783),l=a(0),c=a.n(l),r=a(784),u=a(421);n.default=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement(r.a,{title:"Patch"}),c.a.createElement(t.Main,null,c.a.createElement("div",null,c.a.createElement(u.a,null))))}}}]);
 //# sourceMappingURL=Register.js.map
