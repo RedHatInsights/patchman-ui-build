@@ -1,12 +1,12 @@
 {
   "app_name": "patch",
-  "src_hash": "cadb16004c4b5f62c98e7fee997ba8d13a864c67",
+  "src_hash": "07859479e710a96216b22084ffac64c0a4474632",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.47.0","@patternfly/react-icons@4.7.18","@patternfly/react-table@4.19.24"],
   "travis": {
     "event_type": "push",
-    "build_number": "1536",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/patchman-ui/builds/205614023"
+    "build_number": "1537",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/patchman-ui/builds/205638908"
   }
 }
