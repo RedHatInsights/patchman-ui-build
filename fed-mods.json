@@ -1,0 +1,10 @@
+{
+    "patch": {
+        "entry": [
+            "/apps/patch/patch.aea357899a8afbb3b60d.js"
+        ],
+        "modules": [
+            "/apps/patch/js/374.018f7fe7246ae5fb28b4.js"
+        ]
+    }
+}
