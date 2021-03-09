@@ -6,7 +6,7 @@
   "patternfly_dependencies": ["@patternfly/react-core@4.90.2","@patternfly/react-icons@4.8.4","@patternfly/react-table@4.20.15"],
   "travis": {
     "event_type": "push",
-    "build_number": "2106",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/patchman-ui/builds/219479388"
+    "build_number": "2112",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/patchman-ui/builds/219486630"
   }
 }
