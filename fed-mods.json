@@ -1,10 +1,10 @@
 {
     "patch": {
         "entry": [
-            "/apps/patch/patch.8a855538fb2562248454.js"
+            "/apps/patch/patch.62c57aa43a63d2c74f97.js"
         ],
         "modules": [
-            "/apps/patch/js/374.05664ff6769eae23e66f.js"
+            "/apps/patch/js/221.6c423f02b2385af8f538.js"
         ]
     }
 }

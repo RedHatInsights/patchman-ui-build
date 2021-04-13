@@ -1,0 +1,1 @@
+(self.webpackChunk_redhat_cloud_services_frontend_components_inventory_patchman=self.webpackChunk_redhat_cloud_services_frontend_components_inventory_patchman||[]).push([[665],{14665:(e,n,t)=>{"use strict";function _(e,n){return(_=Object.setPrototypeOf||function(e,n){return e.__proto__=n,e})(e,n)}t.d(n,{Z:()=>_})}}]);
