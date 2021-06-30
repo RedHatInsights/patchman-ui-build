@@ -1,10 +1,10 @@
 {
     "patch": {
         "entry": [
-            "/beta/apps/patch/patch.7180e0f812b783667a4a.js"
+            "/beta/apps/patch/patch.4ca1143fca819e1566c4.js"
         ],
         "modules": [
-            "/beta/apps/patch/js/412.ea74bde84dd26cb575f6.js",
+            "/beta/apps/patch/js/412.d3977dcfcaa9e7a2f81f.js",
             "/beta/apps/patch/js/579.48a28b95399a1c45551d.js",
             "/beta/apps/patch/js/433.0daf69e9083d1fde9abf.js"
         ]
