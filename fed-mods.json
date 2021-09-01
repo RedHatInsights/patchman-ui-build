@@ -1,12 +1,12 @@
 {
     "patch": {
         "entry": [
-            "/apps/patch/patch.170b81f0185d78423e13.js"
+            "/apps/patch/patch.cefb8dde474050c7e5d3.js"
         ],
         "modules": [
             "/apps/patch/js/412.8579585db450802d8c2c.js",
-            "/apps/patch/js/579.2ccb89dfa9f6eba914b7.js",
-            "/apps/patch/js/433.9c5387517dcdb187b06a.js"
+            "/apps/patch/js/579.da5b45436c9065ef2215.js",
+            "/apps/patch/js/433.ff4585fee20c9db0d3e8.js"
         ]
     }
 }
