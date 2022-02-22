@@ -1,13 +1,13 @@
 {
   "app_name": "patch",
-  "src_hash": "ebb07d54bd8c4ae66b723877060fb86aa66ae72a",
+  "src_hash": "0d470b192ae92f83ad18a521c9ac510e0aecfe44",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.192.15","@patternfly/react-icons@4.43.15","@patternfly/react-table@4.61.15"],
-  "rh_cloud_services_dependencies": ["hat-cloud-services/frontend-components-inventory-patchman@1.38.3 /home/travis/build/RedHatInsights/patchman-ui","@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-remediations@3.2.7","@redhat-cloud-services/frontend-components-translations@3.2.4","@redhat-cloud-services/frontend-components-utilities@3.2.8","@redhat-cloud-services/frontend-components@3.5.1"],
+  "rh_cloud_services_dependencies": ["hat-cloud-services/frontend-components-inventory-patchman@1.39.0 /home/travis/build/RedHatInsights/patchman-ui","@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-remediations@3.2.7","@redhat-cloud-services/frontend-components-translations@3.2.4","@redhat-cloud-services/frontend-components-utilities@3.2.8","@redhat-cloud-services/frontend-components@3.5.1"],
   "travis": {
     "event_type": "push",
-    "build_number": "3551",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/patchman-ui/builds/246845033"
+    "build_number": "3552",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/patchman-ui/builds/246845987"
   }
 }
