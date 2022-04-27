@@ -1,14 +1,13 @@
 {
     "patch": {
         "entry": [
-            "/apps/patch/patch.1650355993623.b6f4451870cd218dbb48.js"
+            "/apps/patch/patch.1651049087924.e4e2bebdcd598ac3f893.js"
         ],
         "modules": [
-            "/apps/patch/js/379.1650355993533.b6f4451870cd218dbb48.js",
-            "/apps/patch/css/379.4903f974ecb803073780.css",
-            "/apps/patch/js/838.1650355993533.b6f4451870cd218dbb48.js",
-            "/apps/patch/css/838.953f3c0d1ef2deed083c.css",
-            "/apps/patch/js/1.1650355993533.b6f4451870cd218dbb48.js"
+            "/apps/patch/js/48.1651049087856.e4e2bebdcd598ac3f893.js",
+            "/apps/patch/css/48.3a6de5273cc22827cb7e.css",
+            "/apps/patch/js/570.1651049087856.e4e2bebdcd598ac3f893.js",
+            "/apps/patch/css/570.eac91d91b786867f2d2c.css"
         ]
     }
 }
