@@ -8,7 +8,7 @@
   "rh_cloud_services_dependencies": ["hat-cloud-services/frontend-components-inventory-patchman@1.48.1 /home/travis/build/RedHatInsights/patchman-ui","@redhat-cloud-services/frontend-components-notifications@3.2.5","@redhat-cloud-services/frontend-components-remediations@3.2.7","@redhat-cloud-services/frontend-components-translations@3.2.4","@redhat-cloud-services/frontend-components-utilities@3.2.14","@redhat-cloud-services/frontend-components@3.8.7"],
   "travis": {
     "event_type": "push",
-    "build_number": "3915",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/patchman-ui/builds/251867222"
+    "build_number": "3916",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/patchman-ui/builds/251869231"
   }
 }
