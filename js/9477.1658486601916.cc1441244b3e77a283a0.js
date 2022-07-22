@@ -1,0 +1,1 @@
+(self.webpackChunk_redhat_cloud_services_frontend_components_inventory_patchman=self.webpackChunk_redhat_cloud_services_frontend_components_inventory_patchman||[]).push([[9477,5467,3929,9682],{45467:()=>{}}]);
