@@ -1,13 +1,14 @@
 {
     "patch": {
         "entry": [
-            "/beta/apps/patch/patch.1655212323863.79b37eb30baf064255cc.js"
+            "/beta/apps/patch/patch.1658757012117.6596a76b8c35e95cc46a.js"
         ],
         "modules": [
-            "/beta/apps/patch/js/48.1655212323792.79b37eb30baf064255cc.js",
-            "/beta/apps/patch/css/48.3a6de5273cc22827cb7e.css",
-            "/beta/apps/patch/js/570.1655212323792.79b37eb30baf064255cc.js",
-            "/beta/apps/patch/css/570.eac91d91b786867f2d2c.css"
+            "/beta/apps/patch/js/1293.1658757012042.6596a76b8c35e95cc46a.js",
+            "/beta/apps/patch/css/1293.bfcbff7daa47757793fb.css",
+            "/beta/apps/patch/js/4167.1658757012042.6596a76b8c35e95cc46a.js",
+            "/beta/apps/patch/css/4167.90313ac4e50316f109da.css",
+            "/beta/apps/patch/js/8001.1658757012042.6596a76b8c35e95cc46a.js"
         ]
     }
 }
