@@ -1,14 +1,14 @@
 {
   "app_name": "patch",
   "node_version": "unknown",
-  "src_hash": "e69fedaaf815a1a35d0d372a3a5524149df2c633",
+  "src_hash": "43a95e7ec10f72fc09884dfe64f5eb4583d941a5",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.250.1","@patternfly/react-icons@4.92.10","@patternfly/react-table@4.111.33"],
   "rh_cloud_services_dependencies": ["hat-cloud-services/frontend-components-inventory-patchman@1.58.0 /home/travis/build/RedHatInsights/patchman-ui","@redhat-cloud-services/frontend-components-notifications@3.2.12","@redhat-cloud-services/frontend-components-remediations@3.2.8","@redhat-cloud-services/frontend-components-translations@3.2.5","@redhat-cloud-services/frontend-components-utilities@3.3.7","@redhat-cloud-services/frontend-components@3.9.25","@redhat-cloud-services/host-inventory-client@1.0.111"],
   "travis": {
     "event_type": "push",
-    "build_number": "4461",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/patchman-ui/builds/259148297"
+    "build_number": "4462",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/patchman-ui/builds/259148689"
   }
 }
