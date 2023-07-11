@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "extensions": [],
   "registrationMethod": "callback",
-  "baseURL": "/apps/patch/",
+  "baseURL": "/beta/apps/patch/",
   "loadScripts": [
-    "patch.b193df2fa2d02b6dc92c.js"
+    "patch.5abd489a74916efb2064.js"
   ],
-  "buildHash": "b193df2fa2d02b6dc92c66b7fc179e76"
+  "buildHash": "5abd489a74916efb2064cdcf05a9d2ce"
 }
