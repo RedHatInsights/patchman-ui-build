@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/patch/",
   "loadScripts": [
-    "patch.1d51b0f9486c0b916e44.js"
+    "patch.1c838ca2c1be4ec12a6e.js"
   ],
-  "buildHash": "1d51b0f9486c0b916e44cbb43316d37e"
+  "buildHash": "1c838ca2c1be4ec12a6e0853494344bd"
 }
