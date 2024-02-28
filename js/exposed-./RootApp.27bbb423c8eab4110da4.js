@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkpatch=self.webpackChunkpatch||[]).push([[8178],{28412:(e,t,a)=>{a.r(t),a.d(t,{default:()=>o});var c=a(43297),l=a.n(c),n=a(93942),s=a(80364),r=a(7322),u=a(55323),h=a(59748);const o=function(){return l().createElement("div",{className:"patch-root"},l().createElement(u.Pj,{locale:navigator.language.slice(0,2),messages:h},l().createElement(n.zt,{store:r.h},l().createElement(s.Z,null))))}}}]);
-//# sourceMappingURL=../../sourcemaps/exposed-./RootApp.f8f4021f3c5122a06cf4d74f807f1485.js.map
